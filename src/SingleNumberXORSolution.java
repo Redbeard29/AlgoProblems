@@ -4,7 +4,7 @@
 
 //The bitwise operator allows us to return 0 if an element is repeated (i.e. X^X), and return the element itself if
 //the element is not repeated - X^Y^X = Y. This means that all repeated numbers that have the bitwise operator applied
-//to them will cancel each other out, and we will be left with the one number that is not repeated. 
+//to them will cancel each other out, and we will be left with the one number that is not repeated.
 
 public class SingleNumberXORSolution {
 
